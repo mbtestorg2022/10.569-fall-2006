@@ -33,59 +33,797 @@ Grading
 
 There will be three hour-long exams, open book and notes. Each exam will be worth 25% of the class credit. There will be occasional problem sets, which will be worth a total of 5% credit. A final design project paper will be due at the end of the term, worth 20% credit. The details of the design project can be found in [projects]({{< baseurl >}}/pages/projects).
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 5% |
-| Design Project | 20% |
-| Exam 1 | 25% |
-| Exam 2 | 25% |
-| Exam 3 | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design Project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 3
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course Overview {{< br >}}{{< br >}} Polymer Design and Synthesis {{< br >}}{{< br >}} Reaction Types and Processes {{< br >}}{{< br >}} Introduction to Step Growth {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Step Growth Polymerization**{{< /td-colspan >}} |||
-| 2 |  {{< br >}}{{< br >}} Molecular Weight (MW) Control {{< br >}}{{< br >}} Molecular Weight Distribution (MWD) in Equilibrium Step Condensation Polymerizations {{< br >}}{{< br >}} Interchange Reactions: Effects on Processing and Product {{< br >}}{{< br >}} Application Example: Common Polyesters {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Step Growth Polymerization {{< br >}}{{< br >}} Types of Monomers {{< br >}}{{< br >}} Kinetics and Equilibrium Considerations {{< br >}}{{< br >}} Closed vs. Open Systems {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Common Processing Approaches {{< br >}}{{< br >}} Near-equilibrium vs. Far from Equilibrium {{< br >}}{{< br >}} Homogeneous Solution and Bulk Polymerization {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Interfacial Polymerizations {{< br >}}{{< br >}} Application Examples: Polyamides {{< br >}}{{< br >}}  | Problem set 1 out |
-| 6 |  {{< br >}}{{< br >}} Other Polymers of Interest Obtained by Step-Growth {{< br >}}{{< br >}} Polyaramids {{< br >}}{{< br >}} Polyimides {{< br >}}{{< br >}} Segmented and Block Copolymers from Step Condensation Methods {{< br >}}{{< br >}}  | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Crosslinking and Branching {{< br >}}{{< br >}} Network Formation and Gelation {{< br >}}{{< br >}} Carothers Equation: Pn Approach {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Network Formation {{< br >}}{{< br >}} Statistical Approach: Pw Approach {{< br >}}{{< br >}} A Word on MWD for Nonlinear Polymerizations {{< br >}}{{< br >}}  | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Step-by-Step Approaches I: Polypeptide Synthesis: Examples from Biology {{< br >}}{{< br >}} Step-by-Step Approaches II: Dendrimers {{< br >}}{{< br >}} Traditional Convergent and Divergent Routes {{< br >}}{{< br >}} New "one-pot" Approaches to Hyperbranced Species {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}}  |
-| &nbsp; | Exam 1 (Step Growth): Lectures 1-9 (Two Days After Ses #9) | &nbsp; |
-| {{< td-colspan 3 >}}**Free Radical Chain Polymerization**{{< /td-colspan >}} |||
-| 10 | Introduction to Radical Polymerization | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Radical Polymerization {{< br >}}{{< br >}} Homogeneous Reaction Rate Kinetics {{< br >}}{{< br >}}  | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Free Radical Kinetic Chain Length {{< br >}}{{< br >}} MWD {{< br >}}{{< br >}} Chain Transfer {{< br >}}{{< br >}} Energetics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}} Exam 2 practice problems out {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Thermodynamics of Free Radical Polymerizations {{< br >}}{{< br >}} Ceiling T's {{< br >}}{{< br >}} Tromsdorff Effect {{< br >}}{{< br >}} Instantaneous Pn {{< br >}}{{< br >}}  | &nbsp; |
-| 14 | Processing Approaches: Emulsion Polymerization Processes | &nbsp; |
-| 15 |  {{< br >}}{{< br >}} Processing Approaches: Suspension (Bead) Polymerization Processes {{< br >}}{{< br >}} Polyvinyl Chloride Via Precipitation Polymerization {{< br >}}{{< br >}} Polyethylene Via Radical Polymerization {{< br >}}{{< br >}}  | &nbsp; |
-| 16 |  {{< br >}}{{< br >}} Ziegler-Natta Catalysis {{< br >}}{{< br >}} Stereochemistry of Polymers {{< br >}}{{< br >}}  | Problem set 2 due |
-| 17 | Stereoregular Polymerizations | &nbsp; |
-| 18 | Radical Copolymerization: Alternating to Block Copolymers | &nbsp; |
-| &nbsp; | Exam 2 (Free-Radical Chain): Lectures 12-18 (Two Days After Ses #18) | &nbsp; |
-| {{< td-colspan 3 >}}**Ionic Polymerization**{{< /td-colspan >}} |||
-| 19 |  {{< br >}}{{< br >}} Metallocene Chemistry {{< br >}}{{< br >}} Introduction to New Developments from Brookhart, et al. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Design project: project description distributed {{< br >}}{{< br >}}  |
-| 20 |  {{< br >}}{{< br >}} Introduction to Anionic Polymerization {{< br >}}{{< br >}} Monomers Applicable to Anionic Methods {{< br >}}{{< br >}} Kinetics of "Nonliving" Anionic Polymerization {{< br >}}{{< br >}}  | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Living Anionic Polymerization {{< br >}}{{< br >}} Effects of Initiator and Solvent {{< br >}}{{< br >}}  | &nbsp; |
-| 22 | Anionic Block Copolymerization | Problem set 3 out |
-| 23 |  {{< br >}}{{< br >}} Anionic Ring Opening Polymerization {{< br >}}{{< br >}} End Group Functionalization {{< br >}}{{< br >}} Telechelic Oligomers and Novel Architectures Using Coupling Techniques {{< br >}}{{< br >}}  | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Introduction to Cationic Polymerization, Monomers, Kinetics {{< br >}}{{< br >}}  | &nbsp; |
-| 25 |  {{< br >}}{{< br >}} "Living" Cationic Polymerizations {{< br >}}{{< br >}} Examples of Cationic Polymerization, Isobutyl Rubber Synthesis, Polyvinyl Ethers {{< br >}}{{< br >}}  | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} Anionic Ring Opening Polymerization {{< br >}}{{< br >}} Cationic Ring Opening Polymerization {{< br >}}{{< br >}} Other Ring Opening Polymerizations {{< br >}}{{< br >}}  | Problem set 3 due |
-| 27 | Polysiloxanes, Lactams, etc. | &nbsp; |
-| &nbsp; | Exam 3 (Ionic): Lectures 20-27 (Three Days After Ses #27) | &nbsp; |
-| {{< td-colspan 3 >}}**Polymer Functionalization and Modification**{{< /td-colspan >}} |||
-| 28 |  {{< br >}}{{< br >}} Introduction to Polymer Functionalization: Motivations, Yield, Crystallinity, Solubility Issues {{< br >}}{{< br >}} Common Functionalization Approaches {{< br >}}{{< br >}}  | &nbsp; |
-| 29 | Functionalization Case Studies: Biomaterials Systems, Liquid Crystal (LC) Polymers | &nbsp; |
-| {{< td-colspan 3 >}}**Less Traditional Approaches to Polymer Synthesis**{{< /td-colspan >}} |||
-| 30 |  {{< br >}}{{< br >}} Surface Functionalization of Polymers {{< br >}}{{< br >}} Graft Copolymerization {{< br >}}{{< br >}} Approaches to Making Comb and Graft Architectures {{< br >}}{{< br >}} Grafting onto Existing Polymer Surfaces {{< br >}}{{< br >}} Surface Engineering Using Graft Copolymers {{< br >}}{{< br >}}  | &nbsp; |
-| 31 |  {{< br >}}{{< br >}} "Living" Free Radical Approaches: Stable Free Radical Polymerization, Atom Transfer Radical Polymerization (ATRP) {{< br >}}{{< br >}}  | &nbsp; |
-| 32 |  {{< br >}}{{< br >}} ATRP {{< br >}}{{< br >}} RAFT and Other New Methods {{< br >}}{{< br >}} Ring Opening Metathesis Polymerization (ROMP) {{< br >}}{{< br >}}  | &nbsp; |
-| 33 |  {{< br >}}{{< br >}} ROMP {{< br >}}{{< br >}} Oxidative Coupling {{< br >}}{{< br >}} Electrochemical Polymerizations {{< br >}}{{< br >}} Case Study: Electro-active Polymers {{< br >}}{{< br >}}  | &nbsp; |
-| 34 | Inorganic Polymer Synthesis | &nbsp; |
-| 35 |  {{< br >}}{{< br >}} Macromolecular Systems Via Secondary Bonding: Use of H-bonding and Ionic Charge to Build Structures {{< br >}}{{< br >}} Concept of Self-Assembly - From Primary Structure to Complex Structure {{< br >}}{{< br >}}  | Design project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course Overview
+
+Polymer Design and Synthesis
+
+Reaction Types and Processes
+
+Introduction to Step Growth
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Step Growth Polymerization**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Molecular Weight (MW) Control
+
+Molecular Weight Distribution (MWD) in Equilibrium Step Condensation Polymerizations
+
+Interchange Reactions: Effects on Processing and Product
+
+Application Example: Common Polyesters
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Step Growth Polymerization
+
+Types of Monomers
+
+Kinetics and Equilibrium Considerations
+
+Closed vs. Open Systems
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Common Processing Approaches
+
+Near-equilibrium vs. Far from Equilibrium
+
+Homogeneous Solution and Bulk Polymerization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interfacial Polymerizations
+
+Application Examples: Polyamides
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Other Polymers of Interest Obtained by Step-Growth
+
+Polyaramids
+
+Polyimides
+
+Segmented and Block Copolymers from Step Condensation Methods
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Crosslinking and Branching
+
+Network Formation and Gelation
+
+Carothers Equation: Pn Approach
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Network Formation
+
+Statistical Approach: Pw Approach
+
+A Word on MWD for Nonlinear Polymerizations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Step-by-Step Approaches I: Polypeptide Synthesis: Examples from Biology
+
+Step-by-Step Approaches II: Dendrimers
+
+Traditional Convergent and Divergent Routes
+
+New "one-pot" Approaches to Hyperbranced Species
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1 (Step Growth): Lectures 1-9 (Two Days After Ses #9)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Free Radical Chain Polymerization**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Radical Polymerization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Radical Polymerization
+
+Homogeneous Reaction Rate Kinetics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Free Radical Kinetic Chain Length
+
+MWD
+
+Chain Transfer
+
+Energetics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 out
+
+Exam 2 practice problems out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thermodynamics of Free Radical Polymerizations
+
+Ceiling T's
+
+Tromsdorff Effect
+
+Instantaneous Pn
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Processing Approaches: Emulsion Polymerization Processes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Processing Approaches: Suspension (Bead) Polymerization Processes
+
+Polyvinyl Chloride Via Precipitation Polymerization
+
+Polyethylene Via Radical Polymerization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ziegler-Natta Catalysis
+
+Stereochemistry of Polymers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Stereoregular Polymerizations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Radical Copolymerization: Alternating to Block Copolymers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2 (Free-Radical Chain): Lectures 12-18 (Two Days After Ses #18)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Ionic Polymerization**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Metallocene Chemistry
+
+Introduction to New Developments from Brookhart, et al.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design project: project description distributed
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to Anionic Polymerization
+
+Monomers Applicable to Anionic Methods
+
+Kinetics of "Nonliving" Anionic Polymerization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Living Anionic Polymerization
+
+Effects of Initiator and Solvent
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Anionic Block Copolymerization
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Anionic Ring Opening Polymerization
+
+End Group Functionalization
+
+Telechelic Oligomers and Novel Architectures Using Coupling Techniques
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to Cationic Polymerization, Monomers, Kinetics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Living" Cationic Polymerizations
+
+Examples of Cationic Polymerization, Isobutyl Rubber Synthesis, Polyvinyl Ethers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Anionic Ring Opening Polymerization
+
+Cationic Ring Opening Polymerization
+
+Other Ring Opening Polymerizations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Polysiloxanes, Lactams, etc.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 3 (Ionic): Lectures 20-27 (Three Days After Ses #27)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Polymer Functionalization and Modification**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to Polymer Functionalization: Motivations, Yield, Crystallinity, Solubility Issues
+
+Common Functionalization Approaches
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Functionalization Case Studies: Biomaterials Systems, Liquid Crystal (LC) Polymers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Less Traditional Approaches to Polymer Synthesis**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Surface Functionalization of Polymers
+
+Graft Copolymerization
+
+Approaches to Making Comb and Graft Architectures
+
+Grafting onto Existing Polymer Surfaces
+
+Surface Engineering Using Graft Copolymers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Living" Free Radical Approaches: Stable Free Radical Polymerization, Atom Transfer Radical Polymerization (ATRP)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ATRP
+
+RAFT and Other New Methods
+
+Ring Opening Metathesis Polymerization (ROMP)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ROMP
+
+Oxidative Coupling
+
+Electrochemical Polymerizations
+
+Case Study: Electro-active Polymers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Inorganic Polymer Synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Macromolecular Systems Via Secondary Bonding: Use of H-bonding and Ionic Charge to Build Structures
+
+Concept of Self-Assembly - From Primary Structure to Complex Structure
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Design project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
